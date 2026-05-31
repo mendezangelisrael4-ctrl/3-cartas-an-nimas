@@ -55,10 +55,6 @@ def ejecutar_historia():
 
         "\n",
 
-
-
-
-
     ]
     
     print("\nPresiona ENTER")

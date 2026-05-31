@@ -1,0 +1,12 @@
+# Ignorar llaves privadas y públicas de Git
+Mis llaves GIT/id_ed25519
+Mis llaves GIT/id_ed25519.pub
+
+# Ignorar carpetas de caché de Python
+**/__pycache__/
+*.pyc
+
+Experimentos/
+Sistema de paquetería/
+CRUD neo4j/
+Mis llaves GIT/
