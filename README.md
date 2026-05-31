@@ -20,4 +20,5 @@ Desde vscode
 2. **Presiona la tecla ENTER para que saltes al siguiente texto**
 
 Si tú también te quedaste con dudas con mi histotia puedes escribir tu propia historia para darle sentido a la mía y mándala a mi correo: mendezangelisrael4@gmail.com
+
 El sentido del texto es ser tan ambiguo que te den ganas de escribir lo que falta
